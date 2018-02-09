@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+      <FILENAME>cardgame.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>CardGame::deal</FUNCTION>
+    <DECORATED>?deal@CardGame@@QAEXXZ</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+      <FILENAME>cardgame.cpp</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>CardGame::deal</FUNCTION>
+    <DECORATED>?deal@CardGame@@QAEXXZ</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+      <FILENAME>cardgame.cpp</FILENAME>
+      <LINE>62</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>28020</DEFECTCODE>
+    <DESCRIPTION>The expression '0&lt;=_Param_(1)&amp;&amp;_Param_(1)&lt;=32-1' is not true at this call.</DESCRIPTION>
+    <FUNCTION>CardGame::deal</FUNCTION>
+    <DECORATED>?deal@CardGame@@QAEXXZ</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>37</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>37</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>58</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>39</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>61</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\axel holmer\source\repos\probeclausur ws 1516\probeclausur ws 1516\</FILEPATH>
+        <FILENAME>cardgame.cpp</FILENAME>
+        <LINE>62</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>
